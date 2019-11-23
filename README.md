@@ -12,5 +12,5 @@
 6. Apply H to transform first image into a homographic transformed version using backward warping, also show all the images (first, 2nd, and the homographic transformed) side-by-side. Also show the difference between 2nd and transformed images.
 <br>
 Deliverables:<br>
-1. Report including Input and Output images (Soft Copy)
+1. Report including Input and Output images (Soft Copy)<br>
 2. Code (Soft copy).
